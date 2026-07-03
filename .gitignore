@@ -1,0 +1,13 @@
+# Build output
+result
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Debug symbols
+*.dSYM/
